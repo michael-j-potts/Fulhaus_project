@@ -13,3 +13,9 @@ To deliver the flask api app, I used docker to package it according to pip freez
 Finally, I used github action actions to create a repository for hosting the page.
 
 ### Steps to run
+
+step 1 - python3 main.py
+Train the model based off the provided data set
+
+step 2 - python3 app.py
+Run the flask api combine with the docker 
